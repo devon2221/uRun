@@ -19,7 +19,7 @@ Recently Google, cracked down on bookmarklets and now they don't work (Its based
 > ```
 > to
 > ```
-> userResourcesLocation https://ustuff.github.io/uRun/urun.js
+> userResourcesLocation https://raw.githubusercontent.com/devon2221/uRun/refs/heads/main/urun.js
 > ```
 
 > [!TIP]
